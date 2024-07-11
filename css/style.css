@@ -1,0 +1,16 @@
+.btn-click{
+    background: blue;
+    color: #fff;
+    text-transform:  capitalize;
+ }
+ .btn-click:hover{
+    background: rgb(10, 10, 138);
+    color: #fff;
+ }
+ .btn-click:active{
+    background: rgb(10, 10, 138);
+    color: #fff;
+ }
+ h1{
+    color: #FF5722;
+ }
